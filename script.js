@@ -1,0 +1,1 @@
+alert('Please check the table')
